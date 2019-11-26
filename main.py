@@ -19,7 +19,7 @@ def main():
     soup = jumpLink(origin)
     title = soup.title
 
-    query = input('\n***検索したい文字を入力してください***\n')
+    query = input('\n***Enter the starting letter and number of letters required*** \n')
     searchLetter = ''
     searchNum = ''
     for i in range(len(query)):
