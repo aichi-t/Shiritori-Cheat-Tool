@@ -1,4 +1,3 @@
-
 # Shiritori Cheat Tool
 
 ## Execution
@@ -8,8 +7,7 @@ python main.py
 ```
 
 ## Usage
+
 ```bash
-***Enter the starting letter and number of letters required *** あ８# The letter followed by the length of the word
-
-
-
+***Enter the starting letter and number of letters required*** # eg. 'あ８' -> The letter followed by the length of the word
+```
